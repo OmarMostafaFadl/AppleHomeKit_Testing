@@ -1,11 +1,9 @@
 /*
  * switch.ino
  *
- *  Created on: 2020-05-15
- *      Author: Mixiaoxiao (Wang Bin)
+ *  Created on: 18/8/2021
+ *      Editors: Omar Fadl, Ahmed Hesham, Ahmed Samy
  *
- * HAP section 8.38 Switch
- * An accessory contains a switch.
  *
  * This example shows how to:
  * 1. define a switch accessory and its characteristics (in my_accessory.c).

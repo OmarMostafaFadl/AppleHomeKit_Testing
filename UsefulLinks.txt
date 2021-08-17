@@ -1,0 +1,4 @@
+WiFI Library Documentation:
+
+	https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html
+	https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/
